@@ -7784,7 +7784,7 @@ var $async$auo=A.J(function(a,b){if(a===1)return A.F(b,r)
 for(;;)switch(s){case 0:if($.X==null)A.aj2()
 $.X.toString
 s=2
-return A.z(A.ah1("YOUR_ANON_KEY","https://YOUR-PROJECT.supabase.co"),$async$auo)
+return A.z(A.ah1("sb_publishable_UnzwelpS6TBund2L95qdOQ_Bi6otmF2","https://rvqrvcznevgqiyrpijyj.supabase.co"),$async$auo)
 case 2:if($.X==null)A.aj2()
 q=$.X
 q.toString
